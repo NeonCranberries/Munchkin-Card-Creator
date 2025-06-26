@@ -43,3 +43,5 @@ You can find an example for a custom treasure card (*Donut Chicken*) in `example
 ## Resources
 
 The font files can be downloaded [here](https://ufonts.com/fonts/quasimodo.html) and [here](https://www.wfonts.com/font/caslon-antique).
+
+Big thanks to [tidoe](https://github.com/tidoe) for the original program base.
