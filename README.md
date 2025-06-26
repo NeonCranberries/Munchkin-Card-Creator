@@ -4,7 +4,7 @@ Create high-quality custom cards for the [Munchkin](https://munchkin.game/) card
 
 For example:
 
-<img src="https://github.com/NeonCranberries/MunchkinEditor/blob/main/preview.png" height="500"/>
+<img src="https://github.com/NeonCranberries/Munchkin-Card-Creator/blob/main/preview.png" height="500"/>
 
 (Note that I am not associated with the creators of the Munchkin game in any way.)
 
